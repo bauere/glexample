@@ -1,0 +1,1 @@
+int initsdl(SDL_Window **, char *);
